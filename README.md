@@ -1,2 +1,2 @@
-# Sound Design for San Pellegrino Commercial
+# Sound Design for San Pellegrino Commercial 
 Commercial Sound Design developed in the context of the "Music Production Technologies" course of the Politecnico di Milano Master's Degree in Music and Acoustic Engineering. Starting from a completely silent commercial clip, the students were asked to perform a sound design session, working on both the foley sounds and the soundtrack (writing music and/or using samples and proprietary tracks), giving each location depicted in the advertisement a distinct identity in terms of soundscape.
